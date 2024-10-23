@@ -1,6 +1,6 @@
 # Changelog
 
-## [0.0.1](https://github.com/thanhtunguet/privateGPT/compare/v0.6.2...v0.0.1) (2024-10-07)
+## [0.0.1](https://github.com/thanhtunguet/privateGPT/compare/v0.6.2...v0.0.1) (2024-10-23)
 
 
 ### Features
@@ -70,6 +70,7 @@
 
 * "no such group" error in Dockerfile, added docx2txt and cryptography deps ([#1841](https://github.com/thanhtunguet/privateGPT/issues/1841)) ([947e737](https://github.com/thanhtunguet/privateGPT/commit/947e737f300adf621d2261d527192f36f3387f8e))
 * 294 (tested) ([4cda348](https://github.com/thanhtunguet/privateGPT/commit/4cda348cf87f56ff237e376b03732b1b47a99215))
+* 503 when private gpt gets ollama service ([#2104](https://github.com/thanhtunguet/privateGPT/issues/2104)) ([940bdd4](https://github.com/thanhtunguet/privateGPT/commit/940bdd49af14d9c1e7fd4af54f12648b5fc1f9c0))
 * Add `TARGET_SOURCE_CHUNKS` to `example.env` ([2027ac5](https://github.com/thanhtunguet/privateGPT/commit/2027ac563b6606199563632191b65f5105af8ebe))
 * add built image from DockerHub ([#2042](https://github.com/thanhtunguet/privateGPT/issues/2042)) ([f09f6dd](https://github.com/thanhtunguet/privateGPT/commit/f09f6dd2553077d4566dbe6b48a450e05c2f049e))
 * Add default mode option to settings ([#2078](https://github.com/thanhtunguet/privateGPT/issues/2078)) ([fa3c306](https://github.com/thanhtunguet/privateGPT/commit/fa3c30661d2ab04634361e20e7819365e3dd351a))
